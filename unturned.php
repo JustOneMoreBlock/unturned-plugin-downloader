@@ -1,7 +1,6 @@
 <?php
 
 /*
-
 Visit https://dev.rocketmod.net/
 Click on a plugin such as GlobalBans: https://dev.rocketmod.net/plugins/global-ban/
 In the URL you will see "global-ban"
