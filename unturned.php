@@ -10,7 +10,7 @@ Example: unturned.php?download=global-ban
 Example: unturned.php?download=plugin_slug
 
 Ideal Usage:
-wget --no-check-certificate "http://yourdomain.com/unturned.php?download=plugin_slug" -O plugin_slug.zip"
+wget --no-check-certificate "http://yourdomain.com/unturned.php?download=plugin_slug" -O plugin_slug.zip
 */
 
 $plugin = filter_input(INPUT_GET, "download", FILTER_SANITIZE_STRING);
